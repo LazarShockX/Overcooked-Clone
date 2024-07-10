@@ -8,3 +8,4 @@
 - Delegates
 - Event handling
 - Singleton pattern (accessibility)
+- Scriptable objects
