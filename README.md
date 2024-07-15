@@ -9,3 +9,5 @@
 - Event handling
 - Singleton pattern (accessibility)
 - Scriptable objects
+- C# Interfaces
+- Code refactoring
