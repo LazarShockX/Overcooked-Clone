@@ -1,5 +1,5 @@
 # Overcooked-Clone
-- Post processing
+- Lighting & Post processing
 - Code refactor
 - Animations
 - New input system
@@ -11,4 +11,4 @@
 - Scriptable objects
 - C# Interfaces
 - Code refactoring
-- 
+- Canvas
