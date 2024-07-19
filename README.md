@@ -12,3 +12,4 @@
 - C# Interfaces
 - Code refactoring
 - Canvas
+- Camera modes
