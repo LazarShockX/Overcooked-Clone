@@ -13,3 +13,4 @@
 - Code refactoring
 - Canvas
 - Camera modes
+- State machine
