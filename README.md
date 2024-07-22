@@ -16,3 +16,6 @@
 - State machine
 - Interface
 - Output parameters
+- Struct
+
+Coding vs Unity
