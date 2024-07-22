@@ -15,3 +15,4 @@
 - Camera modes
 - State machine
 - Interface
+- Output parameters
