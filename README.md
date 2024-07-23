@@ -18,5 +18,6 @@
 - Output parameters
 - Struct
 - Shader graph
+- UI (TextMeshPro, layout)
 
 Coding vs Unity
