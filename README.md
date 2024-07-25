@@ -19,5 +19,7 @@
 - Struct
 - Shader graph
 - UI (TextMeshPro, layout)
+- Game over, pause, loading, main menu
+- Sound
 
 Coding vs Unity
