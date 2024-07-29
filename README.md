@@ -1,26 +1,29 @@
 # Overcooked-Clone
-- Lighting & Post processing
-- Code refactor
+The following concepts have been implemented when recreating the Overcooked game.
+
+**Unity Editor**
 - Animations
+- Camera modes (cinemachine)
+- Controller input
+- Game over, pause, loading, main menu, options
+- Lighting & Post processing
+- Menu navigation
 - New input system
 - Raycast
-- Generics
+- Shader graph
+- Sound
+- UI (TextMeshPro, layout)
+
+**Coding**
+- Interfaces
+- Code refactoring
 - Delegates
 - Event handling
-- Singleton pattern (accessibility)
-- Scriptable objects
-- C# Interfaces
-- Code refactoring
-- Canvas
-- Camera modes
-- State machine
-- Interface
+- Generics
+- Key rebinding
 - Output parameters
-- Struct
-- Shader graph
-- UI (TextMeshPro, layout)
-- Game over, pause, loading, main menu, options
-- Sound
 - PlayerPrefs
-
-Coding vs Unity
+- Scriptable objects
+- Singleton pattern (accessibility)
+- State machine
+- Struct
