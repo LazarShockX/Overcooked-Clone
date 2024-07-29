@@ -8,7 +8,7 @@ The following concepts have been implemented when recreating the Overcooked game
 - Game over, pause, loading, main menu, options
 - Lighting & Post processing
 - Menu navigation
-- New input system
+- New input system (including controller support)
 - Raycast
 - Shader graph
 - Sound
