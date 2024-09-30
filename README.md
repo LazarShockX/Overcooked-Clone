@@ -1,4 +1,7 @@
-# Overcooked-Clone
+# 🍔 Overcooked-Clone
+
+https://github.com/user-attachments/assets/4fb30591-b74d-4f5c-a0e5-65e213b02553
+
 The following concepts have been implemented when recreating the Overcooked game.
 
 **Unity Editor**
@@ -27,5 +30,3 @@ The following concepts have been implemented when recreating the Overcooked game
 - Singleton pattern (accessibility)
 - State machine
 - Struct
-
-https://github.com/user-attachments/assets/4fb30591-b74d-4f5c-a0e5-65e213b02553
